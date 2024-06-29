@@ -1,0 +1,5 @@
+Credentials cache: API:C64B709B-CC4E-4EEC-A247-2BFE29B08910
+        Principal: aremkrtc@42YEREVAN.AM
+
+  Issued                Expires               Principal
+Sep  9 11:27:45 2021  Sep  9 21:27:39 2021  krbtgt/42YEREVAN.AM@42YEREVAN.AM
